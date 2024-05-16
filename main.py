@@ -8,7 +8,7 @@ api_key = "YOUR_GOOGLE_MAPS_API_KEY"
 
 # Example JSON array data
 json_data = [
-    # Add your JSON data here
+    # Add your JSON locations data here
 ]
 
 # Function to get latitude and longitude using Google Maps Geocoding API
